@@ -51,7 +51,7 @@ endstep0-->
 <details id=1 open>
 <summary><h2>Step 1: Add a test workflow</h2></summary>
 
-_Welcome to "GitHub Actions: Continuous Integration"! :wave:_
+_Welcome to "GitHub Actions: Continuous Integration"! :wave:_ 
 
 **What is _continuous integration_?**: [Continuous integration](https://en.wikipedia.org/wiki/Continuous_integration) can help you stick to your team’s quality standards by running tests and reporting the results on GitHub. CI tools run builds and tests, triggered by commits. The results post back to GitHub in the pull request. The goal is fewer issues in `main` and faster feedback as you work.
 
